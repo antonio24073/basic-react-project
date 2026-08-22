@@ -1,4 +1,4 @@
-# Simple project React + TypeScript + Vite
+# Simple project - React + TypeScript + Vite
 
 Project name: My finance system
 
