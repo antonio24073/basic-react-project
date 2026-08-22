@@ -1,6 +1,6 @@
-# curso React + TypeScript + Vite
+# Simple project React + TypeScript + Vite
 
-Executar:
+Execute:
 
 ```
 npm i
