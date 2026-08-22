@@ -1,5 +1,7 @@
 # Simple project React + TypeScript + Vite
 
+Project name: My finance system
+
 Execute:
 
 ```
